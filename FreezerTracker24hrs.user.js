@@ -1,6 +1,5 @@
 // ==UserScript==
 // @name         FreezerTracker24hrs
-// @namespace    https://github.com/jgray0705/UserScripts
 // @version      6.01
 // @description  Tracks amount of time spent in frozen last 24 hours
 // @author       grajef@
